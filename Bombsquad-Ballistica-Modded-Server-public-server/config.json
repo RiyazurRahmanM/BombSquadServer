@@ -1,5 +1,5 @@
 {
-   "party_name":"BombSquad Community Server",
+   "party_name":"⚽Riyaz Non-Epic Soccer⚽",
    "party_is_public":true,
    "authenticate_clients":true,
    "admins":[
@@ -17,14 +17,14 @@
    "enable_telnet":false,
    "teams_series_length":7,
    "ffa_series_length":24,
-   "stats_url":"https://discord.gg/ucyaesh",
+   "stats_url":"https://discord.gg/pRt4gBHyMk",
    "clean_exit_minutes":60,
    "unclean_exit_minutes":90,
    "idle_exit_minutes":20,
    "show_tutorial":false,
    "team_names":[
-      "ladoo",
-      "barfi"
+      "Riyaz",
+      "Selfimare"
    ],
    "team_colors":[
       [
